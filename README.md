@@ -18,8 +18,9 @@ Currently, pursuing a Master's in Data Science after working as a portfolio mana
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   16 mins         ████████████████▓░░░░░░░░   67.16 %
-YAML       8 mins          ████████▒░░░░░░░░░░░░░░░░   32.84 %
+Total Time: 28 mins
+
+Markdown   19 mins         █████████████████▓░░░░░░░   70.80 %
 ```
 
 <!--END_SECTION:waka-->
