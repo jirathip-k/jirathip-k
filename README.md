@@ -18,6 +18,8 @@ Currently, pursuing a Master's in Data Science after working as a portfolio mana
 <!--START_SECTION:waka-->
 
 ```txt
+From: 25 October 2023 - To: 26 October 2023
+
 Total Time: 28 mins
 
 Markdown   19 mins         █████████████████▓░░░░░░░   70.80 %
