@@ -12,6 +12,9 @@ Currently, pursuing a Master's in Data Science after working as a portfolio mana
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,redis,fastapi,react" /><br>
 </div>
 
+
+### Stats
+
 <!--START_SECTION:waka-->
 
 ```txt
