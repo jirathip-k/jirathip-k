@@ -21,3 +21,4 @@ jobs:
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
           TIME_RANGE: all_time
+          SHOW_TITLE: true
