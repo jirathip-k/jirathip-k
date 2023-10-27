@@ -32,11 +32,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 26 October 2023
+From: 25 October 2023 - To: 27 October 2023
 
-Total Time: 28 mins
+Total Time: 7 hrs 37 mins
 
-Markdown   19 mins         █████████████████▓░░░░░░░   70.80 %
+Python     3 hrs 22 mins   ███████████░░░░░░░░░░░░░░   44.14 %
+Markdown   1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+Docker     1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
