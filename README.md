@@ -1,19 +1,33 @@
-### Hi there 👋 I'm Jirathip and my nickname is Guy
+<h1 align="center">Hi there 👋 I'm Guy</h1>
+<h3 align="center">A data scientist from Thailand, currently in Melbourne</h3>
 
+### About me
 
-Currently, pursuing a Master's in Data Science after working as a portfolio manager for international funds, motivated by artificial intelligence and innovation. I am passionate about bouldering, as it cultivates physical endurance, mental resilience, and strategic thinking.
+- I'm studying data science at Monash University in Australia.
+- I'm passionate about deep learning.
+- I also like to explore both backend and frontend development to understand the full development process.
+- I enjoy bouldering.
+- Tech I'm working with and learning:
 
-
-### Languages & Frameworks
-
+#### Languages
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,rust" />
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,redis,fastapi,react" /><br>
 </div>
 
+#### Frameworks
 
-### Stats
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,react" /><br>
+</div>
+
+#### Tools
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,redis,docker" /><br>
+</div>
+
+### My Stats
 
 <!--START_SECTION:waka-->
 
