@@ -32,14 +32,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 27 October 2023
+From: 25 October 2023 - To: 28 October 2023
 
-Total Time: 7 hrs 37 mins
+Total Time: 9 hrs 31 mins
 
-Python     3 hrs 22 mins   ███████████░░░░░░░░░░░░░░   44.14 %
-Markdown   1 hr 46 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
-Docker     1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python        3 hrs 36 mins   █████████▒░░░░░░░░░░░░░░░   37.83 %
+Markdown      2 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
+Docker        1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Lua           40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+tmux          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
