@@ -5,7 +5,7 @@
 
 - I'm studying data science at Monash University in Australia.
 - I'm passionate about deep learning.
-- I also like to explore both backend and frontend development to understand the full development process.
+- I also like to explore web development, programming, and technology.
 - I enjoy bouldering.
 - Tech I'm working with and learning:
 
