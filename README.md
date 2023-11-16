@@ -32,18 +32,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 13 November 2023
+From: 25 October 2023 - To: 14 November 2023
 
-Total Time: 68 hrs 56 mins
+Total Time: 69 hrs 8 mins
 
-Lua            18 hrs 11 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
-Rust           7 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-TypeScript     6 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Python         6 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-Markdown       6 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-fish           4 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Docker         3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-CSS            2 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Lua            18 hrs 17 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
+Rust           7 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+TypeScript     6 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Python         6 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+Markdown       6 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+fish           4 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Docker         3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+CSS            2 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->
