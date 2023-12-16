@@ -32,16 +32,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 14 December 2023
+From: 25 October 2023 - To: 15 December 2023
 
-Total Time: 80 hrs 21 mins
+Total Time: 81 hrs 44 mins
 
-Lua            19 hrs 35 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.82 %
-Python         8 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
-Rust           7 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-Markdown       7 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-TypeScript     6 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-Other          5 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Lua            19 hrs 38 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+Python         8 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Rust           7 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Markdown       7 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+TypeScript     6 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Other          5 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
