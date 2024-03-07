@@ -15,10 +15,10 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          LANG_COUNT: 10
+          LANG_COUNT: 15
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML CONF SWAYCONFIG INI MD
+          IGNORED_LANGUAGES: YAML JSON TOML CONF SWAYCONFIG INI MARKDOWN
           TIME_RANGE: all_time
           SHOW_TITLE: true
