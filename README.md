@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Guy</h1>
-<h3 align="center">A data scientist from Thailand, currently in Melbourne</h3>
+<h3 align="center">A data scientist based in Thailand</h3>
 
 ### About me
 
@@ -12,7 +12,7 @@
 #### Languages
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,rust" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,rust,go" />
 </div>
 
 #### Frameworks

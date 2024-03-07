@@ -19,6 +19,6 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML CONF SWAYCONFIG INI
+          IGNORED_LANGUAGES: YAML JSON TOML CONF SWAYCONFIG INI MD
           TIME_RANGE: all_time
           SHOW_TITLE: true
