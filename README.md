@@ -32,17 +32,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 26 March 2024
+From: 25 October 2023 - To: 27 March 2024
 
-Total Time: 113 hrs 45 mins
+Total Time: 119 hrs 34 mins
 
-Lua             20 hrs 10 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-Python          13 hrs 32 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-HTML            13 hrs 1 min    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
-Go              8 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-Rust            7 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-TypeScript      6 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Other           6 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Lua             20 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+Python          16 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+HTML            14 hrs 41 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Go              8 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Rust            7 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+TypeScript      6 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Other           6 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
