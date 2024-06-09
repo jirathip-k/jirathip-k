@@ -32,17 +32,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 07 June 2024
+From: 25 October 2023 - To: 08 June 2024
 
-Total Time: 160 hrs 26 mins
+Total Time: 161 hrs 39 mins
 
-Python          50 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-Lua             21 hrs 8 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-HTML            15 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Markdown        14 hrs 42 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Go              8 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Rust            7 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Other           6 hrs 48 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Python          50 hrs 13 mins  ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+Lua             21 hrs 52 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+HTML            15 hrs 26 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Markdown        14 hrs 42 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Go              8 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Rust            7 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Other           6 hrs 48 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
